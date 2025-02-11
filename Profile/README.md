@@ -110,3 +110,5 @@ The tools provided on <a href="https://nricgenerator.com/">NRIC Generator</a> ar
 
 By using <a href="https://nricgenerator.com/">NRIC Generator</a>, you ensure a hassle-free experience for generating and validating NRIC numbers. Explore our tools today and make your testing process smoother than ever!
 
+
+**Keywords:** Singapore NRIC generator, NRIC checksum, FIN generator, bulk NRIC validator, NRIC barcode generator, free NRIC tools, Singapore NRIC validation, NRIC testing tools.
